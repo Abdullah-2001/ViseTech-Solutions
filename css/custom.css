@@ -67,8 +67,8 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.1em;
-    color: var(--bg-color);
-    background: var(--primary-color);
+    color: var(--text-color);
+    background: var(--bg-color);
 }
 
 ::-webkit-scrollbar-track {
